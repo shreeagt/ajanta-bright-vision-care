@@ -1,0 +1,204 @@
+body{
+    color: #3c3935;
+}
+
+a,a:active,a:focus {
+    color: #3c3935;
+}
+
+body, section{
+    background: #fff;
+}
+
+.butn,
+.butn-style1{
+    color: #fff;
+}
+
+.butn.white {
+    background: #fff;
+    color: #3c3935;
+}
+
+.butn,.butn-style1,.triangle-shape,.shape-five,.triangle-shape:after,.triangle-shape:before,.card-body.hover:hover{
+    background: #f37021;
+}
+
+.square-shape {
+    border-bottom-color: #f37021;
+}
+
+.square-shape:after {
+    border-top-color: #f37021;
+}
+
+
+.list-style1 li:before,.form-control:focus{
+    color: #f37021;
+    background: rgb(213 163 83 / 10%);
+}
+
+.form-control {
+    border: 1px solid #ced4da;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 10px rgb(55 125 255 / 10%);
+    border-color: #f37021;
+}
+
+.card {
+    -webkit-box-shadow: 0px 50px 100px 0px rgb(64 1 4 / 10%), 0px -6px 0px 0px rgb(248 99 107 / 0%);
+    box-shadow: 0px 50px 100px 0px rgb(64 1 4 / 10%), 0px -6px 0px 0px rgb(248 99 107 / 0%);
+}
+
+.card-body i {
+    color: #f37021;
+}
+
+.card-body.hover:hover h5.h-white,
+.card-body.hover:hover i.h-white,
+.card-body.hover:hover {
+    color: #fff !important;
+}
+
+.card-style1 .card-heading {
+    background: #f37021;
+}
+
+header {
+    background: #292a2d;
+}
+
+.navbar-nav li>ul {
+    background: #282b2d;
+    -webkit-box-shadow: 0px 2px 3px rgb(0 0 0 / 20%);
+    -ms-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 2px 3px rgb(0 0 0 / 20%);
+}
+
+
+.header-style2 .navbar-nav li.current>a {
+    color: #f37021;
+}
+
+.header-style2 .navbar-nav li.has-sub a:hover {
+    color: #fff;
+}
+
+.navbar-nav li a {
+    color: #9d9d9d;
+}
+
+.navbar-nav>li>a {
+    color: #fff;
+}
+
+.header-style2 .navbar ul ul li.active>a {
+    color: #f37021;
+}
+
+.navbar ul ul li.has-sub>a:before,
+.navbar ul ul li.has-sub>a:after {
+    background: #9d9d9d;
+}
+
+.navbar ul ul>li.has-sub:hover>a:after {
+    background: #fff;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, .55);
+    border-color: rgba(0, 0, 0, .1);
+}
+
+
+
+.slider-fade1.owl-theme .owl-nav [class*='owl-'] {
+    background: #f37021;
+}
+
+.slider-fade1.owl-theme .owl-nav .owl-prev:hover,
+.slider-fade1.owl-theme .owl-nav .owl-next:hover {
+    background: #f37021;
+}
+
+.slider-fade1 .owl-nav i {
+    color: #fff;
+}
+
+
+.owl-theme .owl-dots .owl-dot span {
+    background-color: #f37021;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    border-color: #f37021;
+}
+
+.testimonial-body {
+    -webkit-box-shadow: 0px 50px 100px 0px rgb(64 1 4 / 10%), 0px -6px 0px 0px rgb(248 99 107 / 0%);
+    box-shadow: 0px 50px 100px 0px rgb(64 1 4 / 10%), 0px -6px 0px 0px rgb(248 99 107 / 0%);
+}
+
+.scroll-to-top {
+    color: #fff;
+    background: #f37021;
+    border: 1px solid #f37021;
+}
+
+.scroll-to-top i {
+    color: #fff;
+}
+
+.scroll-to-top:hover {
+    background: #fff;
+}
+
+.scroll-to-top:hover i {
+    color: #8f4b37;
+}
+
+
+.footer-style1 .social-icons2 li a {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.footer-style1 li a {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+footer li a {
+    color: #fff;
+}
+
+.footer-style1 .social-icons2 li a:hover {
+    background: #fff;
+    color: #f37021;
+}
+
+.footer-style1 h2 {
+    color: #fff;
+}
+
+.footer-style1 .footer-bar {
+    border-top: 1px solid rgba(255, 255, 255, 0.075);
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.about-style1 .exp-box {
+    box-shadow: 0px 10px 30px 0px rgb(17 12 79 / 10%);
+}
+
+
+.price-card table tr:first-child td {
+    border-top: 1px solid #dee2e6;
+    ;
+}
+
+
+.shop-timing {
+    border: 5px double #fff;
+}
